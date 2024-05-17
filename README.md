@@ -1,5 +1,7 @@
 # Chat Flow Builder
 
+`link: https://chat-flowbuilder-jpvb3hfmp-adnan179s-projects.vercel.app/`
+
 Chat Flow Builder is a sleek and intuitive tool built with `React`, `React Flow`, and `Tailwind CSS`. It allows you to effortlessly create and customize chat flows. You can add new text nodes to the canvas, change the text of text nodes, save your work, and restore previous states.
 
 ## Features
@@ -37,3 +39,11 @@ npm install
    ```bash
    npm start
    ```
+
+## Images:
+![image](https://github.com/adnan179/Bitespeed_assignment/assets/100411918/708cd2be-6c7d-47f3-864e-cebff3293bfd)
+![image](https://github.com/adnan179/Bitespeed_assignment/assets/100411918/2b96a4c3-9bf3-4854-9444-786fb465e236)
+![image](https://github.com/adnan179/Bitespeed_assignment/assets/100411918/4888c551-83d9-4713-bb68-c3aa1f52c695)
+
+
+
