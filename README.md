@@ -25,9 +25,11 @@ Ensure you have the following installed on your machine:
    ```bash
    git clone <code link>
    cd chat-flow-builder
-  ```bash
-2. ** Install dependencies:**
+    ```
+
+2. **Install dependencies:**
 open your terminal
 run the following command:
 ```bash
-npm install ```
+npm install
+ ```
