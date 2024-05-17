@@ -33,3 +33,7 @@ run the following command:
 ```bash
 npm install
  ```
+3. **Run the application using this command:**
+   ```bash
+   npm start
+   ```
